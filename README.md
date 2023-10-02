@@ -1,4 +1,4 @@
-# StudentGUI
+# Student Register
 
 ## Overview
 
