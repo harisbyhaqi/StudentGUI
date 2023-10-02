@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Student Information Recorder GUI is a Java-based graphical user interface application designed to efficiently record and manage student information. It utilizes the Java Swing framework to create an intuitive and user-friendly interface.
+StudentGUI is a Java-based graphical user interface application designed to efficiently record and manage student information. It utilizes the Java Swing framework to create an intuitive and user-friendly interface.
 
 ## Features
 
